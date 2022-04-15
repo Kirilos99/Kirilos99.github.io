@@ -1,1 +1,1 @@
-mxclient -f @emx.mail.ru. @emx.mail.ru. < message
+mxclient -f @emx.mail.ru. @emx.mail.ru. < 10
